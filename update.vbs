@@ -1,0 +1,1 @@
+createobject("wscript.shell").run "update.bat",0
